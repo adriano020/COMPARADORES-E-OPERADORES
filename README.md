@@ -1,2 +1,3 @@
-# COMPARADORES-E-OPERADORES
-DIA16
+# Comparadores e Opereadores
+
+## Dia 16.04
